@@ -1,0 +1,35 @@
+.formControl {
+  margin: 0;
+}
+.formControl .optionLink {
+  padding: 0;
+}
+.formControl fieldset {
+  border-color: none !important;
+  border-width: 0 !important;
+}
+.languages {
+  padding: 4px 8px;
+}
+.optionLink {
+  display: flex;
+  align-items: center;
+  padding: 6px 16px;
+}
+.languageName {
+  font-size: 14px;
+  margin-left: 4px;
+}
+.languageOption {
+  padding: 0;
+  display: block;
+}
+.root,
+.root:hover {
+  border: 0;
+  outline: none;
+  color: var(--color-white);
+}
+.root svg {
+  fill: var(--color-white);
+}

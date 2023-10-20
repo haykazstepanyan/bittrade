@@ -1,0 +1,76 @@
+.section {
+  padding: 40px;
+}
+.centeredText {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.sectionHeading {
+  color: var(--color-white);
+  font-weight: 600;
+  font-size: 42px;
+  margin-bottom: 8px;
+}
+.spaceBetween {
+  justify-content: space-between;
+}
+.servicesBox {
+  margin-top: 72px;
+}
+.servicesDescription {
+  color: var(--color-white-80);
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+  width: 440px;
+  margin-top: 12px;
+  text-align: center;
+}
+.serviceItem {
+  max-width: 30%;
+  background: linear-gradient(
+    152deg,
+    var(--bg-color-trans) 0%,
+    var(--bg-color) 100%
+  );
+  border: 2px solid var(--brand-color-dark);
+  border-radius: 16px;
+  padding: 52px 32px;
+  margin: 0 8px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.serviceItem:hover {
+  border: 2px solid var(--brand-color);
+  transform: translateY(-5px);
+  cursor: default;
+}
+.sectionItemTitle {
+  color: var(--color-white);
+  height: 46px;
+}
+.serviceItem:hover .sectionItemTitle {
+  color: var(--brand-color);
+}
+.serviceImageBox {
+  border-radius: 50%;
+  background-color: var(--wh-color);
+  box-shadow: 0px 8px 24px rgba(12, 52, 91, 0.04);
+  padding: 24px;
+  width: fit-content;
+  margin: 0 auto 32px;
+}
+.sectionItemTitle {
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  font-size: 18px;
+  line-height: 1.25;
+  font-weight: 600;
+}
+.descriptionNoMargin {
+  color: var(--color-white-80);
+  font-size: 16px;
+  line-height: 1.6;
+}

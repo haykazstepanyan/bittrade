@@ -1,0 +1,47 @@
+.header {
+  box-shadow: none;
+  padding: 16px 0;
+  display: unset;
+}
+.toolbar {
+  justify-content: space-between;
+  width: 100%;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbarItems {
+  transition: all 0.3s ease;
+  margin: 0 16px;
+  font-size: 22px;
+  font-weight: 600;
+  width: max-content;
+}
+.navbarItems:last-child {
+  padding-right: 0;
+  margin-right: 0;
+}
+.navbarItems:hover {
+  color: var(--brand-color);
+}
+.phoneNumber {
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 1.6px;
+}
+.topToolbar {
+  align-items: center;
+  justify-content: space-between;
+}
+.bottomToolbar {
+  margin-top: 24px;
+}
+.navBar {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 10;
+  background-color: var(--body-color);
+}

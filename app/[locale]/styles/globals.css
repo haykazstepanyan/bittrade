@@ -1,0 +1,46 @@
+:root {
+  --color-dark-blue: #0c263a;
+  --color-blue: #0a4fd5;
+  --color-gray: #6b777f;
+  --color-light-gray: #b0b3bf;
+  --color-white: #fff;
+  --color-white-22: rgba(255, 255, 255, 0.22);
+  --color-white-60: rgba(255, 255, 255, 0.6);
+  --color-white-80: rgba(255, 255, 255, 0.8);
+  --color-white-gray: #e6e6e6;
+  --color-white-light: rgba(255, 255, 255, 0.9);
+  --bg-color-trans: rgba(237, 242, 248, 0.02);
+  --color-black-10: rgba(0, 0, 0, 0.1);
+  --bg-color: rgba(237, 242, 248, 0.08);
+  --bg-shape-color: #d5e5f9;
+  --bg-green-80: rgba(63, 81, 75, 0.8);
+  --brand-color: #cca75d;
+  --brand-color-dark: #091e19;
+  --footer-color: #00150f;
+  --body-color: #00150f;
+  --about-img-bg-shadow: #85f2d382;
+  --wh-color: #1b2d29;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding-top: 16px;
+  max-width: 100%;
+  /* overflow: auto; */
+  overflow-x: clip !important;
+  /* padding-right: 0 !important;  */
+  color: var(--color-white);
+  background-color: var(--body-color);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.brandText {
+  color: var(--brand-color);
+}

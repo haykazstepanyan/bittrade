@@ -1,0 +1,27 @@
+.backCall {
+  margin-left: 48px;
+}
+.dialogPaper {
+  width: 340px;
+}
+.dialogContentText {
+  font-size: 16px;
+  margin-bottom: 24px;
+}
+.dialogTitle {
+  padding: 8px 24px;
+  font-weight: 600;
+}
+.input {
+  margin-bottom: 24px;
+}
+.formButton {
+  width: max-content;
+  margin: 0 auto;
+}
+.input fieldset {
+  border: 1px solid var(--brand-color-dark);
+}
+.input fieldset:hover {
+  border: none;
+}

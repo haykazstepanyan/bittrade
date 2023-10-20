@@ -1,0 +1,127 @@
+{
+  "navLinks": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "homePage": {
+    "investText": "Invest Your Money With <span>Higher Return</span>",
+    "investDescription": "Anyone can invest money to different currency to increase their earnings by the help of GDT through online.",
+    "greetingText": "Meet <span>Our Company</span> Unless Miss The Opportunity",
+    "greetingDescription": "GDT is not just another set of courses. This is an intensive course where you assemble financial blocks, learn to see income opportunities and make money with successful investors.",
+    "advisersText": "Meet Our <span>Advisers</span>",
+    "advisersDescription": "Hey everyone, meet our amazing advisers! They're here to help and guide us through anything."
+  },
+  "pricing": {
+    "heading": "Our <span>Pricing</span> Plan",
+    "secondaryTitle": "We offer the best pricing around - from installations to repairs, maintenance, and more!",
+    "button": "Choose Plan",
+    "basic": {
+      "title": "Basic",
+      "features": {
+        "0": "Weekly online meeting",
+        "1": "Personal recommendation for collecting your first portfolio",
+        "2": "Author's plate for maintaining statistics",
+        "3": "Cryptocurrency dictionary"
+      }
+    },
+    "standard": {
+      "title": "Standard",
+      "features": {
+        "0": "Weekly online meeting",
+        "1": "Personal recommendation for collecting your first portfolio",
+        "2": "Author's plate for maintaining statistics",
+        "3": "Personal training",
+        "4": "Unlimited learning access",
+        "5": "24/7 technical support"
+      }
+    },
+    "premium": {
+      "title": "Premium",
+      "features": {
+        "0": "Weekly online meeting",
+        "1": "Personal recommendation for collecting your first portfolio",
+        "2": "Author's plate for maintaining statistics",
+        "3": "Personal training",
+        "4": "Unlimited learning access",
+        "5": "24/7 technical support",
+        "6": "Unlimited access to a closed Telegram channel for students."
+      }
+    }
+  },
+  "faq": {
+    "title": "<span>Frequently</span> Asked Questions",
+    "description": "Got questions? We've got answers. Check out our FAQ page for all the dots.",
+    "list": {
+      "0": {
+        "question": "What is crypto?",
+        "answer": "Cryptocurrency is a digital or virtual currency that operates on distributed ledger technology called a blockchain and uses cryptography for security. It is decentralized and operates independently of a central bank."
+      },
+      "1": {
+        "question": "What is Bitcoin?",
+        "answer": "Bitcoin is a cryptocurrency that operates on a peer-to-peer (P2P) network. It was created in 2009 by an unknown person or group using the pseudonym Satoshi Nakamoto. Bitcoin is the first and most well-known cryptocurrency, and it has gained significant popularity and value since its creation."
+      },
+      "2": {
+        "question": "What is blockchain?",
+        "answer": "Blockchain technology is basically a transparent, publicly accessible, trustless, and secure ledger. It helps in the secure transfer of the ownership of units of value by leveraging proof of work consensus and public-key encryption methods."
+      },
+      "3": {
+        "question": "How to earn crypto?",
+        "answer": "There are several ways to earn cryptocurrency, including Mining, Staking, Trading, Airdrops, Crypto projects"
+      },
+      "4": {
+        "question": "How can I buy cryptocurrencies?",
+        "answer": "You can buy cryptocurrencies through a wallet, which is basically an online app for holding your crypto assets. Users generally have to create an account for a specific exchange and transfer actual money for purchasing cryptocurrencies such as Ethereum or Bitcoin."
+      },
+      "5": {
+        "question": "What are cryptocurrency wallets?",
+        "answer": "Crypto wallets are basically platforms for the secure storage of digital assets in comparison to exchanges. Users could hold a wallet through an exchange account or a custody wallet and even from outside the exchange."
+      }
+    }
+  },
+  "services": {
+    "pageName": "Services",
+    "title": "<span>Services</span> we offer",
+    "description": "Our company offers its customers only high-precision products. We invest in learning processes and strive for continuous improvement.",
+    "list": {
+      "0": {
+        "title": "Training out of water",
+        "description": "We don’t load you with theory. We teach you how to earn money right away on real projects from which we earn our own money."
+      },
+      "1": {
+        "title": "Practice",
+        "description": "We provide ready-made practical tools for earning money."
+      },
+      "2": {
+        "title": "Career start",
+        "description": "We employ the most motivated and proactive ones at the training stage."
+      }
+    }
+  },
+  "footer": {
+    "allRights": "All Rights Reserved",
+    "links": "Links",
+    "aboutUs": "About Us",
+    "teams": "Teams",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "dialogs": {
+    "orderCallButtonText": "Back Call",
+    "orderCallDialogTitle": "Order Back Call",
+    "orderCallDialogContent": "Please enter your name and phone number, our manager will contact you shortly",
+    "orderCallDialogButton": "Call me",
+    "pricingPlanDialogTitle": "Training registration",
+    "pricingPlanDialogContent": "Please enter your name, phone number and email, our manager will contact you shortly",
+    "pricingPlanDialogButton": "Order",
+    "namePlaceholder": "Name",
+    "phonePlaceholder": "Phone number",
+    "emailPlaceholder": "Email",
+    "nameError": "Name is required",
+    "phoneError": "Phone number is required",
+    "emailError": "Email is required",
+    "invalidPhoneNumberError": "Invalid phone number",
+    "invalidEmailError": "Invalid email"
+  }
+}
